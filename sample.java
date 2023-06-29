@@ -4,6 +4,7 @@ public class sample {
         a=10;
         b=2;
         c=20;
+
         
         System.out.println("helo world");
     }
