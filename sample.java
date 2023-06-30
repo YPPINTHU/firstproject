@@ -5,6 +5,8 @@ public class sample {
         b=2;
         c=20;
 
+        System.out.println(a*b);
+
         
         System.out.println("helo world");
     }
